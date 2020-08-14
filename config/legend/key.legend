@@ -1,0 +1,11 @@
+Touches autorisés (Orthographiez selon les manières suivantes, sinon cela occasionnera une erreur) : A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, CONTROL, SPACE, ALT
+Actions autorisés (Orthographiez selon les manières suivantes, sinon cela occasionnera une erreur) : JUMP, DOWN, LEFT, RIGHT, FIRE, EDITOR_LEFT, EDITOR_RIGHT
+Exemple:
+
+JUMP;A
+DOWN;B
+LEFT;C
+RIGHT;D
+FIRE;E
+EDITOR_LEFT;F
+EDITOR_RIGHT;G

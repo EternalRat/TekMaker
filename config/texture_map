@@ -1,0 +1,13 @@
+1;res/Floor.png
+2;res/Solid_block.png
+4;res/Breackable_bricks.png
+6;res/Unbreackables_bricks.png
+8;res/Random_bonus_block.png
+9;res/Bonus_block.png
+A;res/Bonus_block.png
+B;res/Bonus_block.png
+C;res/pique.png
+E;res/slow_block.png
+F;res/speed_block.png
+G;res/depart.png
+H;res/arrivee.png
